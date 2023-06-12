@@ -96,3 +96,23 @@
     background-color: #808080;
     text-align: center;
 }
+
+.row-centered {
+    text-align: center;
+}
+
+/*.row {
+  display: flex;
+}
+
+.picture,
+.text {
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+
+.picture img {
+  max-width: 100%;
+  height: auto;
+}*/
