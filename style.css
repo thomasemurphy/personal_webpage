@@ -15,11 +15,12 @@
     background-position: center bottom 22%;
     opacity: 0.99;
     /* You can adjust the percentage value as needed */
-    height: 50vh; /* Adjust the height as per your requirement */
+    height: 35vh; /* Adjust the height as per your requirement */
     position:relative;
 
 }
 
+/* make it look transparent/faded */
 .bgimage::before {
   content: "";
   position: absolute;
